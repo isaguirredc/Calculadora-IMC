@@ -54,6 +54,7 @@ public class IMC {
                 } else {
                     classificacao = "Abaixo do Normal";
                 }
+                break;
 
             case 'F':
             case 'f':
@@ -70,6 +71,7 @@ public class IMC {
                 } else {
                     classificacao = "Abaixo do Normal";
                 }
+                break;
         }
 
         System.out.println(
